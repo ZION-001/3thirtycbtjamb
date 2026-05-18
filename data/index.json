@@ -1,0 +1,1853 @@
+[
+  {
+    "cat_id": 2,
+    "title": "English Language",
+    "file": "eng.json",
+    "question_count": 1488,
+    "years": [
+      "2000",
+      "2001",
+      "2002",
+      "2003",
+      "2004",
+      "2005",
+      "2006",
+      "2007",
+      "2008",
+      "2009",
+      "2010",
+      "2011",
+      "2012",
+      "2013",
+      "2014",
+      "2015",
+      "2016",
+      "2017",
+      "2018",
+      "2019",
+      "2020",
+      "2021",
+      "2025"
+    ],
+    "topics": [
+      {
+        "id": 341,
+        "topic": "Question Tag"
+      },
+      {
+        "id": 342,
+        "topic": "Concord"
+      },
+      {
+        "id": 344,
+        "topic": "Phrases & Clauses"
+      },
+      {
+        "id": 345,
+        "topic": "Idioms"
+      },
+      {
+        "id": 346,
+        "topic": "Grammatical Structure"
+      },
+      {
+        "id": 347,
+        "topic": "Synonyms"
+      },
+      {
+        "id": 348,
+        "topic": "Pronouns"
+      },
+      {
+        "id": 349,
+        "topic": "Orals - Consonant Sounds"
+      },
+      {
+        "id": 350,
+        "topic": "Stress - Emphatic Stress"
+      },
+      {
+        "id": 351,
+        "topic": "Stress - Syllabic Stress"
+      },
+      {
+        "id": 352,
+        "topic": "Orals - Vowel Sounds"
+      },
+      {
+        "id": 353,
+        "topic": "Antonyms"
+      },
+      {
+        "id": 357,
+        "topic": "Prepositions"
+      }
+    ]
+  },
+  {
+    "cat_id": 1,
+    "title": "Mathematics",
+    "file": "maths.json",
+    "question_count": 1087,
+    "years": [
+      "2000",
+      "2001",
+      "2002",
+      "2003",
+      "2004",
+      "2005",
+      "2006",
+      "2007",
+      "2008",
+      "2009",
+      "2010",
+      "2011",
+      "2012",
+      "2013",
+      "2014",
+      "2015",
+      "2016",
+      "2017",
+      "2018",
+      "2019",
+      "2020",
+      "2021"
+    ],
+    "topics": [
+      {
+        "id": 14,
+        "topic": "Geometric Progression (G.P)"
+      },
+      {
+        "id": 15,
+        "topic": "Triangles & Polygons"
+      },
+      {
+        "id": 16,
+        "topic": "Circle Geometry"
+      },
+      {
+        "id": 17,
+        "topic": "Mensuration"
+      },
+      {
+        "id": 18,
+        "topic": "Approximation & Errors"
+      },
+      {
+        "id": 19,
+        "topic": "Coordinate Geometry of Straight Lines"
+      },
+      {
+        "id": 21,
+        "topic": "Permutation & Combination"
+      },
+      {
+        "id": 22,
+        "topic": "Sets"
+      },
+      {
+        "id": 23,
+        "topic": "Polynomials"
+      },
+      {
+        "id": 24,
+        "topic": "Differentiation"
+      },
+      {
+        "id": 25,
+        "topic": "Probability"
+      },
+      {
+        "id": 26,
+        "topic": "Surds"
+      },
+      {
+        "id": 27,
+        "topic": "Variation"
+      },
+      {
+        "id": 28,
+        "topic": "Inequalities"
+      },
+      {
+        "id": 29,
+        "topic": "Trigonometry"
+      },
+      {
+        "id": 30,
+        "topic": "Statistics"
+      },
+      {
+        "id": 31,
+        "topic": "Indices"
+      },
+      {
+        "id": 32,
+        "topic": "Simplification & Substitution"
+      },
+      {
+        "id": 33,
+        "topic": "Simultaneous Linear Equation"
+      },
+      {
+        "id": 34,
+        "topic": "Ratio, Rate & Proportion"
+      },
+      {
+        "id": 35,
+        "topic": "Binary Operation"
+      },
+      {
+        "id": 36,
+        "topic": "Logarithms"
+      },
+      {
+        "id": 37,
+        "topic": "Change of Subject Formula"
+      },
+      {
+        "id": 39,
+        "topic": "Integration"
+      },
+      {
+        "id": 40,
+        "topic": "Number Bases"
+      },
+      {
+        "id": 41,
+        "topic": "Percentages"
+      },
+      {
+        "id": 44,
+        "topic": "Quadratic Equations"
+      },
+      {
+        "id": 45,
+        "topic": "Bearing & Distance"
+      },
+      {
+        "id": 46,
+        "topic": "Simple & Compound Interest"
+      },
+      {
+        "id": 48,
+        "topic": "Standard Form"
+      },
+      {
+        "id": 49,
+        "topic": "Angle of Elevation & Depression"
+      },
+      {
+        "id": 50,
+        "topic": "Profit & Loss"
+      },
+      {
+        "id": 52,
+        "topic": "Latitude & Longitude"
+      },
+      {
+        "id": 53,
+        "topic": "Fractions"
+      },
+      {
+        "id": 57,
+        "topic": "Measure of Dispersion"
+      },
+      {
+        "id": 522,
+        "topic": "Factorisation"
+      },
+      {
+        "id": 530,
+        "topic": "Arithmetic Progression (A.P)"
+      },
+      {
+        "id": 531,
+        "topic": "Pattern of Sequences"
+      },
+      {
+        "id": 678,
+        "topic": "Sequences & Series"
+      },
+      {
+        "id": 683,
+        "topic": "Integration"
+      }
+    ]
+  },
+  {
+    "cat_id": 3,
+    "title": "Chemistry",
+    "file": "chem.json",
+    "question_count": 1146,
+    "years": [
+      "2000",
+      "2001",
+      "2002",
+      "2003",
+      "2004",
+      "2005",
+      "2006",
+      "2007",
+      "2008",
+      "2009",
+      "2010",
+      "2011",
+      "2012",
+      "2013",
+      "2014",
+      "2015",
+      "2016",
+      "2017",
+      "2018",
+      "2019",
+      "2020",
+      "2021"
+    ],
+    "topics": [
+      {
+        "id": 1,
+        "topic": "Chemical Kinetics"
+      },
+      {
+        "id": 9,
+        "topic": "Stoichiometry"
+      },
+      {
+        "id": 126,
+        "topic": "Kinetic Theory Of Matter"
+      },
+      {
+        "id": 127,
+        "topic": "Atomic Structure"
+      },
+      {
+        "id": 128,
+        "topic": "Moles"
+      },
+      {
+        "id": 129,
+        "topic": "Water Of Crystallization"
+      },
+      {
+        "id": 131,
+        "topic": "Water"
+      },
+      {
+        "id": 132,
+        "topic": "Oxidation & Reduction"
+      },
+      {
+        "id": 133,
+        "topic": "Rates Of Reactions"
+      },
+      {
+        "id": 134,
+        "topic": "Energy & Chemical Reactions"
+      },
+      {
+        "id": 135,
+        "topic": "Electrolysis"
+      },
+      {
+        "id": 138,
+        "topic": "Organic Chemistry"
+      },
+      {
+        "id": 140,
+        "topic": "Metals & Their Compounds"
+      },
+      {
+        "id": 141,
+        "topic": "Nitrogen & Its Compounds"
+      },
+      {
+        "id": 143,
+        "topic": "Carbon & Its Compounds"
+      },
+      {
+        "id": 145,
+        "topic": "Separation Techniques"
+      },
+      {
+        "id": 148,
+        "topic": "Chemical Equilibrium"
+      },
+      {
+        "id": 149,
+        "topic": "Chlorine & Its Compounds"
+      },
+      {
+        "id": 150,
+        "topic": "Sulphur & Its Compounds"
+      },
+      {
+        "id": 152,
+        "topic": "Acids and Bases"
+      },
+      {
+        "id": 153,
+        "topic": "Air Pollution"
+      },
+      {
+        "id": 154,
+        "topic": "Salts"
+      },
+      {
+        "id": 156,
+        "topic": "Chemical Combinations"
+      },
+      {
+        "id": 157,
+        "topic": "Gas Laws"
+      },
+      {
+        "id": 158,
+        "topic": "Periodic Tables"
+      },
+      {
+        "id": 161,
+        "topic": "Halogen Family"
+      },
+      {
+        "id": 163,
+        "topic": "Hydrocarbons and Crude Oil"
+      },
+      {
+        "id": 164,
+        "topic": "Shapes of Molecules and Solids"
+      },
+      {
+        "id": 165,
+        "topic": "Radioactivity"
+      },
+      {
+        "id": 166,
+        "topic": "Solubility"
+      },
+      {
+        "id": 170,
+        "topic": "Transition elements"
+      },
+      {
+        "id": 175,
+        "topic": "Oxides"
+      },
+      {
+        "id": 178,
+        "topic": "Volumetric & Qualitative Analysis"
+      },
+      {
+        "id": 540,
+        "topic": "Chemical Bonding"
+      }
+    ]
+  },
+  {
+    "cat_id": 4,
+    "title": "Physics",
+    "file": "phy.json",
+    "question_count": 1153,
+    "years": [
+      "2000",
+      "2001",
+      "2002",
+      "2003",
+      "2004",
+      "2005",
+      "2006",
+      "2007",
+      "2008",
+      "2009",
+      "2010",
+      "2011",
+      "2012",
+      "2013",
+      "2014",
+      "2015",
+      "2016",
+      "2017",
+      "2018",
+      "2019",
+      "2020",
+      "2021"
+    ],
+    "topics": [
+      {
+        "id": 58,
+        "topic": "Heat Energy"
+      },
+      {
+        "id": 59,
+        "topic": "Simple Machines"
+      },
+      {
+        "id": 60,
+        "topic": "Electric Field"
+      },
+      {
+        "id": 61,
+        "topic": "Gravitational Field"
+      },
+      {
+        "id": 62,
+        "topic": "Magnetic Field"
+      },
+      {
+        "id": 63,
+        "topic": "Electromagnetic Waves"
+      },
+      {
+        "id": 64,
+        "topic": "Electromagnetic Induction"
+      },
+      {
+        "id": 66,
+        "topic": "Pressure"
+      },
+      {
+        "id": 67,
+        "topic": "Work Energy & Power"
+      },
+      {
+        "id": 68,
+        "topic": "Equilibrium Of Forces"
+      },
+      {
+        "id": 69,
+        "topic": "Change of State"
+      },
+      {
+        "id": 70,
+        "topic": "Optical Instruments"
+      },
+      {
+        "id": 71,
+        "topic": "Simple Harmonic Motion"
+      },
+      {
+        "id": 73,
+        "topic": "The Gas Laws"
+      },
+      {
+        "id": 74,
+        "topic": "Sound Waves"
+      },
+      {
+        "id": 75,
+        "topic": "Elastic Properties of Solids"
+      },
+      {
+        "id": 76,
+        "topic": "Simple A.C Circuits"
+      },
+      {
+        "id": 77,
+        "topic": "Introductory Electronics"
+      },
+      {
+        "id": 78,
+        "topic": "Linear Momentum"
+      },
+      {
+        "id": 79,
+        "topic": "Light Waves"
+      },
+      {
+        "id": 80,
+        "topic": "Waves"
+      },
+      {
+        "id": 81,
+        "topic": "Radioactivity & Nuclear Reactions"
+      },
+      {
+        "id": 83,
+        "topic": "Motion"
+      },
+      {
+        "id": 84,
+        "topic": "Molecular Nature of Matter"
+      },
+      {
+        "id": 85,
+        "topic": "Fluids At Rest"
+      },
+      {
+        "id": 86,
+        "topic": "Units & Measurements"
+      },
+      {
+        "id": 87,
+        "topic": "Projectiles"
+      },
+      {
+        "id": 88,
+        "topic": "Electrolysis"
+      },
+      {
+        "id": 91,
+        "topic": "Atoms"
+      },
+      {
+        "id": 92,
+        "topic": "Scalars & Vectors"
+      },
+      {
+        "id": 523,
+        "topic": "Friction and Viscosity"
+      },
+      {
+        "id": 524,
+        "topic": "Thermal Expansion"
+      },
+      {
+        "id": 578,
+        "topic": "Current Electricity"
+      },
+      {
+        "id": 581,
+        "topic": "Electric Cells"
+      },
+      {
+        "id": 582,
+        "topic": "Refraction of Light"
+      },
+      {
+        "id": 583,
+        "topic": "Heat Transfer"
+      },
+      {
+        "id": 584,
+        "topic": "Temperature & Its Measurement"
+      }
+    ]
+  },
+  {
+    "cat_id": 5,
+    "title": "Biology",
+    "file": "bio.json",
+    "question_count": 1163,
+    "years": [
+      "2000",
+      "2001",
+      "2002",
+      "2003",
+      "2004",
+      "2005",
+      "2006",
+      "2007",
+      "2008",
+      "2009",
+      "2010",
+      "2011",
+      "2012",
+      "2013",
+      "2014",
+      "2015",
+      "2016",
+      "2017",
+      "2018",
+      "2019",
+      "2020",
+      "2021"
+    ],
+    "topics": [
+      {
+        "id": 2,
+        "topic": "Reproduction"
+      },
+      {
+        "id": 4,
+        "topic": "Organization of Life"
+      },
+      {
+        "id": 94,
+        "topic": "Basic Ecological Concepts"
+      },
+      {
+        "id": 95,
+        "topic": "Ecological Management"
+      },
+      {
+        "id": 96,
+        "topic": "Reproductive System"
+      },
+      {
+        "id": 97,
+        "topic": "Sense Organs"
+      },
+      {
+        "id": 98,
+        "topic": "The Cell"
+      },
+      {
+        "id": 99,
+        "topic": "Development Of New Organisms"
+      },
+      {
+        "id": 100,
+        "topic": "Digestive System"
+      },
+      {
+        "id": 101,
+        "topic": "Nervous Co-ordination"
+      },
+      {
+        "id": 102,
+        "topic": "Regulation of Internal Environment"
+      },
+      {
+        "id": 103,
+        "topic": "Respiratory System"
+      },
+      {
+        "id": 104,
+        "topic": "Animal Nutrition"
+      },
+      {
+        "id": 105,
+        "topic": "Transport System"
+      },
+      {
+        "id": 106,
+        "topic": "Skeletal System"
+      },
+      {
+        "id": 107,
+        "topic": "Ecology of Population"
+      },
+      {
+        "id": 108,
+        "topic": "Terrestrial Habitats"
+      },
+      {
+        "id": 109,
+        "topic": "Functioning Ecosystem"
+      },
+      {
+        "id": 110,
+        "topic": "Aquatic Habitats"
+      },
+      {
+        "id": 111,
+        "topic": "Biology of Heredity (Genetics)"
+      },
+      {
+        "id": 112,
+        "topic": "Plant Nutrition"
+      },
+      {
+        "id": 113,
+        "topic": "Living Things"
+      },
+      {
+        "id": 114,
+        "topic": "Variation in Population"
+      },
+      {
+        "id": 115,
+        "topic": "Theories of Evolution"
+      },
+      {
+        "id": 116,
+        "topic": "Relevance Of Biology To Agriculture"
+      },
+      {
+        "id": 117,
+        "topic": "Adaptation for Survival"
+      },
+      {
+        "id": 118,
+        "topic": "Excretory System"
+      },
+      {
+        "id": 119,
+        "topic": "Micro-organisms In Action"
+      },
+      {
+        "id": 120,
+        "topic": "Reproduction in Flowering Plants"
+      },
+      {
+        "id": 121,
+        "topic": "Cell Structure & Functions"
+      },
+      {
+        "id": 122,
+        "topic": "Micro-organisms & Better Health"
+      },
+      {
+        "id": 124,
+        "topic": "Fruits"
+      },
+      {
+        "id": 125,
+        "topic": "Cell & its Environment"
+      },
+      {
+        "id": 690,
+        "topic": "Mineral Requirements of Plants"
+      },
+      {
+        "id": 691,
+        "topic": "Modes of Nutrition"
+      },
+      {
+        "id": 692,
+        "topic": "Feeding Habits"
+      },
+      {
+        "id": 693,
+        "topic": "Pollination"
+      },
+      {
+        "id": 694,
+        "topic": "Dentition"
+      },
+      {
+        "id": 695,
+        "topic": "Supporting Tissues"
+      },
+      {
+        "id": 696,
+        "topic": "Hormonal Coordination"
+      },
+      {
+        "id": 697,
+        "topic": "Biomes"
+      },
+      {
+        "id": 698,
+        "topic": "Ecological Succession"
+      },
+      {
+        "id": 699,
+        "topic": "Pollution"
+      },
+      {
+        "id": 700,
+        "topic": "Conservation of Natural Resources"
+      }
+    ]
+  },
+  {
+    "cat_id": 6,
+    "title": "Geography",
+    "file": "geo.json",
+    "question_count": 1013,
+    "years": [
+      "2000",
+      "2001",
+      "2002",
+      "2003",
+      "2004",
+      "2005",
+      "2006",
+      "2007",
+      "2008",
+      "2009",
+      "2010",
+      "2011",
+      "2012",
+      "2013",
+      "2014",
+      "2015",
+      "2017",
+      "2018",
+      "2019"
+    ],
+    "topics": [
+      {
+        "id": 263,
+        "topic": "Elements Of Physical Geography"
+      },
+      {
+        "id": 264,
+        "topic": "Climate"
+      },
+      {
+        "id": 265,
+        "topic": "The Environment"
+      },
+      {
+        "id": 266,
+        "topic": "Rocks"
+      },
+      {
+        "id": 267,
+        "topic": "ECOWAS"
+      },
+      {
+        "id": 300,
+        "topic": "Hydrosphere"
+      },
+      {
+        "id": 301,
+        "topic": "Tectonic Processes"
+      },
+      {
+        "id": 302,
+        "topic": "Soil"
+      },
+      {
+        "id": 303,
+        "topic": "The Atmosphere"
+      },
+      {
+        "id": 304,
+        "topic": "Resources"
+      },
+      {
+        "id": 305,
+        "topic": "Trade"
+      },
+      {
+        "id": 306,
+        "topic": "Settlement"
+      },
+      {
+        "id": 307,
+        "topic": "Industry"
+      },
+      {
+        "id": 308,
+        "topic": "Weather & Climate"
+      },
+      {
+        "id": 310,
+        "topic": "Transportation & Communication"
+      },
+      {
+        "id": 311,
+        "topic": "Population"
+      },
+      {
+        "id": 312,
+        "topic": "World Population"
+      },
+      {
+        "id": 313,
+        "topic": "Map Work"
+      },
+      {
+        "id": 315,
+        "topic": "Energy & Power"
+      },
+      {
+        "id": 318,
+        "topic": "Erosion"
+      },
+      {
+        "id": 320,
+        "topic": "Vegetation"
+      },
+      {
+        "id": 390,
+        "topic": "Principles Of Elementary Surveying"
+      },
+      {
+        "id": 397,
+        "topic": "Land Forms"
+      },
+      {
+        "id": 400,
+        "topic": "Regional Geography Of Africa"
+      },
+      {
+        "id": 404,
+        "topic": "Economic Activities"
+      }
+    ]
+  },
+  {
+    "cat_id": 7,
+    "title": "Literature in English",
+    "file": "lit.json",
+    "question_count": 592,
+    "years": [
+      "2000",
+      "2001",
+      "2002",
+      "2003",
+      "2004",
+      "2005",
+      "2006",
+      "2007",
+      "2008",
+      "2009",
+      "2010",
+      "2011",
+      "2012",
+      "2013",
+      "2014",
+      "2015",
+      "2016",
+      "2017",
+      "2018",
+      "2019",
+      "2021"
+    ],
+    "topics": [
+      {
+        "id": 424,
+        "topic": "General Literary Principles"
+      },
+      {
+        "id": 426,
+        "topic": "Literary Appreciation"
+      },
+      {
+        "id": 470,
+        "topic": "Non-African Prose WASSCE 2020"
+      },
+      {
+        "id": 471,
+        "topic": "African Drama WASSCE 2020"
+      },
+      {
+        "id": 472,
+        "topic": "Non-African Drama WASSCE 2020"
+      },
+      {
+        "id": 473,
+        "topic": "Non-African Poetry WASSCE 2020"
+      },
+      {
+        "id": 600,
+        "topic": "Drama"
+      },
+      {
+        "id": 601,
+        "topic": "Prose"
+      },
+      {
+        "id": 602,
+        "topic": "Poetry"
+      },
+      {
+        "id": 603,
+        "topic": "African Poetry WASSCE 2021-25"
+      },
+      {
+        "id": 604,
+        "topic": "African Drama WASSCE 2021-25"
+      },
+      {
+        "id": 606,
+        "topic": "Non-African Drama WASSCE 2021-25"
+      },
+      {
+        "id": 607,
+        "topic": "Non-African Prose WASSCE 2021-25"
+      },
+      {
+        "id": 609,
+        "topic": "African Drama UTME"
+      },
+      {
+        "id": 610,
+        "topic": "Non-African Drama UTME"
+      },
+      {
+        "id": 611,
+        "topic": "African Poetry  2020 (WASSCE AND UTME)"
+      },
+      {
+        "id": 612,
+        "topic": "Non-African Poetry UTME"
+      },
+      {
+        "id": 613,
+        "topic": "African Prose 2020 (WASSCE AND UTME)"
+      },
+      {
+        "id": 614,
+        "topic": "Non-African Prose UTME"
+      }
+    ]
+  },
+  {
+    "cat_id": 8,
+    "title": "Economics",
+    "file": "econs.json",
+    "question_count": 1160,
+    "years": [
+      "2000",
+      "2001",
+      "2002",
+      "2003",
+      "2004",
+      "2005",
+      "2006",
+      "2007",
+      "2008",
+      "2009",
+      "2010",
+      "2011",
+      "2012",
+      "2013",
+      "2014",
+      "2015",
+      "2016",
+      "2017",
+      "2018",
+      "2019",
+      "2020",
+      "2021"
+    ],
+    "topics": [
+      {
+        "id": 186,
+        "topic": "Definition & Scope of Economics"
+      },
+      {
+        "id": 187,
+        "topic": "Economic Systems"
+      },
+      {
+        "id": 188,
+        "topic": "The Concept of Supply"
+      },
+      {
+        "id": 189,
+        "topic": "The Concept of Demand"
+      },
+      {
+        "id": 190,
+        "topic": "Money & Inflation"
+      },
+      {
+        "id": 191,
+        "topic": "Theory of Cost & Revenue"
+      },
+      {
+        "id": 192,
+        "topic": "Factors of Production"
+      },
+      {
+        "id": 193,
+        "topic": "National Income"
+      },
+      {
+        "id": 194,
+        "topic": "Theory of Production"
+      },
+      {
+        "id": 195,
+        "topic": "Agriculture"
+      },
+      {
+        "id": 196,
+        "topic": "Theory of Consumer Behaviour"
+      },
+      {
+        "id": 197,
+        "topic": "Basic Tools of Economic Analysis"
+      },
+      {
+        "id": 198,
+        "topic": "Business Organizations"
+      },
+      {
+        "id": 200,
+        "topic": "Population"
+      },
+      {
+        "id": 201,
+        "topic": "Financial Institutions"
+      },
+      {
+        "id": 202,
+        "topic": "Economic Development & Planning"
+      },
+      {
+        "id": 203,
+        "topic": "International Trade & Balance of Payments"
+      },
+      {
+        "id": 204,
+        "topic": "Public Finance"
+      },
+      {
+        "id": 205,
+        "topic": "Theory of Price Determination"
+      },
+      {
+        "id": 206,
+        "topic": "Market Structures"
+      },
+      {
+        "id": 208,
+        "topic": "International Economic Organizations"
+      },
+      {
+        "id": 209,
+        "topic": "Industrialization"
+      },
+      {
+        "id": 210,
+        "topic": "Major Natural Resources"
+      },
+      {
+        "id": 365,
+        "topic": "The Concept Of Demand & Supply"
+      },
+      {
+        "id": 367,
+        "topic": "Distributive Trade"
+      },
+      {
+        "id": 372,
+        "topic": "Petroleum & The Nigerian Economy"
+      },
+      {
+        "id": 373,
+        "topic": "Economic Growth & Development"
+      },
+      {
+        "id": 376,
+        "topic": "Labour Market"
+      }
+    ]
+  },
+  {
+    "cat_id": 9,
+    "title": "Commerce",
+    "file": "comm.json",
+    "question_count": 1104,
+    "years": [
+      "2000",
+      "2001",
+      "2002",
+      "2003",
+      "2004",
+      "2005",
+      "2006",
+      "2007",
+      "2008",
+      "2009",
+      "2010",
+      "2011",
+      "2012",
+      "2013",
+      "2014",
+      "2015",
+      "2016",
+      "2017",
+      "2018",
+      "2019",
+      "2021"
+    ],
+    "topics": [
+      {
+        "id": 321,
+        "topic": "Financial Institutions"
+      },
+      {
+        "id": 322,
+        "topic": "Purchase & Sales Of Goods"
+      },
+      {
+        "id": 323,
+        "topic": "Insurance"
+      },
+      {
+        "id": 324,
+        "topic": "Legal Aspect of Business"
+      },
+      {
+        "id": 325,
+        "topic": "Foreign Trade"
+      },
+      {
+        "id": 326,
+        "topic": "Occupation"
+      },
+      {
+        "id": 327,
+        "topic": "Financing Business & Cheque"
+      },
+      {
+        "id": 328,
+        "topic": "Elements of Marketing"
+      },
+      {
+        "id": 329,
+        "topic": "Transportation, Tourism & Warehousing"
+      },
+      {
+        "id": 330,
+        "topic": "Business Capital & Profits"
+      },
+      {
+        "id": 331,
+        "topic": "Stock Exchange"
+      },
+      {
+        "id": 332,
+        "topic": "Trade Associations"
+      },
+      {
+        "id": 333,
+        "topic": "Home Trade"
+      },
+      {
+        "id": 334,
+        "topic": "Business Units"
+      },
+      {
+        "id": 336,
+        "topic": "Production"
+      },
+      {
+        "id": 338,
+        "topic": "Elements of Business Management"
+      },
+      {
+        "id": 339,
+        "topic": "Communication"
+      },
+      {
+        "id": 500,
+        "topic": "Advertising"
+      },
+      {
+        "id": 502,
+        "topic": "Introduction to Commerce"
+      },
+      {
+        "id": 561,
+        "topic": "Information and Communication Technology (ICT)"
+      },
+      {
+        "id": 562,
+        "topic": "Money"
+      },
+      {
+        "id": 577,
+        "topic": "Business Environment & Social Responsibility"
+      }
+    ]
+  },
+  {
+    "cat_id": 10,
+    "title": "Accounts",
+    "file": "acc.json",
+    "question_count": 1113,
+    "years": [
+      "2000",
+      "2001",
+      "2002",
+      "2003",
+      "2004",
+      "2005",
+      "2006",
+      "2007",
+      "2008",
+      "2009",
+      "2010",
+      "2011",
+      "2012",
+      "2013",
+      "2014",
+      "2015",
+      "2016",
+      "2017",
+      "2018",
+      "2019",
+      "2021"
+    ],
+    "topics": [
+      {
+        "id": 505,
+        "topic": "The Accounting Equation & Double Entry Principles"
+      },
+      {
+        "id": 507,
+        "topic": "Partnership Accounts & Joint venture"
+      },
+      {
+        "id": 508,
+        "topic": "Departmental Accounts"
+      },
+      {
+        "id": 509,
+        "topic": "Branch Accounts"
+      },
+      {
+        "id": 510,
+        "topic": "Accounts Of Not For Profit Making Organization"
+      },
+      {
+        "id": 511,
+        "topic": "Company Accounts"
+      },
+      {
+        "id": 512,
+        "topic": "Introduction To Financial Accounting"
+      },
+      {
+        "id": 513,
+        "topic": "Accounting Concepts and Conventions"
+      },
+      {
+        "id": 514,
+        "topic": "Manufacturing Accounts"
+      },
+      {
+        "id": 515,
+        "topic": "Public Sector Accounting"
+      },
+      {
+        "id": 516,
+        "topic": "Information Technology In Accounting"
+      },
+      {
+        "id": 517,
+        "topic": "The Final Account Of A Sole Trader"
+      },
+      {
+        "id": 519,
+        "topic": "Control Accounts & Self-balancing  Ledgers"
+      },
+      {
+        "id": 520,
+        "topic": "Single Entry & Incomplete Records"
+      },
+      {
+        "id": 521,
+        "topic": "Financial System"
+      },
+      {
+        "id": 525,
+        "topic": "Stock Valuation"
+      },
+      {
+        "id": 526,
+        "topic": "Subsidiary Books & Source Documents"
+      },
+      {
+        "id": 527,
+        "topic": "Accounting Errors & Correction"
+      },
+      {
+        "id": 528,
+        "topic": "Ledger & Trial Balance"
+      },
+      {
+        "id": 529,
+        "topic": "Bank Transactions & Reconciliation Statements"
+      },
+      {
+        "id": 569,
+        "topic": "Reserves, Provisions & Depreciation"
+      },
+      {
+        "id": 571,
+        "topic": "Accounting Ratio"
+      },
+      {
+        "id": 572,
+        "topic": "Adjustments in the Final Account"
+      },
+      {
+        "id": 573,
+        "topic": "Cashbook"
+      },
+      {
+        "id": 574,
+        "topic": "Government Accounting"
+      },
+      {
+        "id": 575,
+        "topic": "General knowledge"
+      },
+      {
+        "id": 576,
+        "topic": "Accounting standards"
+      }
+    ]
+  },
+  {
+    "cat_id": 11,
+    "title": "Government",
+    "file": "govt.json",
+    "question_count": 1114,
+    "years": [
+      "2000",
+      "2001",
+      "2002",
+      "2003",
+      "2004",
+      "2005",
+      "2006",
+      "2007",
+      "2008",
+      "2009",
+      "2010",
+      "2011",
+      "2012",
+      "2013",
+      "2014",
+      "2015",
+      "2016",
+      "2017",
+      "2018",
+      "2019",
+      "2020",
+      "2021"
+    ],
+    "topics": [
+      {
+        "id": 474,
+        "topic": "Basic Concepts of Government"
+      },
+      {
+        "id": 475,
+        "topic": "Organs (Arms) of Government"
+      },
+      {
+        "id": 477,
+        "topic": "Constitutions"
+      },
+      {
+        "id": 478,
+        "topic": "Structures and Systems of Governance"
+      },
+      {
+        "id": 479,
+        "topic": "Civil Service Administration"
+      },
+      {
+        "id": 480,
+        "topic": "Citizenship"
+      },
+      {
+        "id": 481,
+        "topic": "Political Parties & Party Systems"
+      },
+      {
+        "id": 482,
+        "topic": "Pressure Groups, Public Opinion & Mass Media"
+      },
+      {
+        "id": 483,
+        "topic": "Local Government"
+      },
+      {
+        "id": 484,
+        "topic": "Constitutional Development"
+      },
+      {
+        "id": 485,
+        "topic": "The Electoral Systems & Electoral Management Body"
+      },
+      {
+        "id": 486,
+        "topic": "Nationalism In Nigeria"
+      },
+      {
+        "id": 487,
+        "topic": "Pre-Colonial Political System"
+      },
+      {
+        "id": 488,
+        "topic": "Federalism in Nigeria"
+      },
+      {
+        "id": 489,
+        "topic": "Development of Political Parties in Nigeria"
+      },
+      {
+        "id": 490,
+        "topic": "International Organizations"
+      },
+      {
+        "id": 492,
+        "topic": "Foreign Policy"
+      },
+      {
+        "id": 493,
+        "topic": "Colonial Administration"
+      },
+      {
+        "id": 494,
+        "topic": "Public Corporations and Parastatals"
+      },
+      {
+        "id": 495,
+        "topic": "Nigeria and the World"
+      },
+      {
+        "id": 496,
+        "topic": "Introduction to Government"
+      },
+      {
+        "id": 497,
+        "topic": "Principles of Democratic Government"
+      },
+      {
+        "id": 532,
+        "topic": "Military Rule in Nigeria"
+      },
+      {
+        "id": 637,
+        "topic": "Political Ideologies"
+      },
+      {
+        "id": 638,
+        "topic": "Non-Alignment Movement"
+      }
+    ]
+  },
+  {
+    "cat_id": 12,
+    "title": "CRK",
+    "file": "crk.json",
+    "question_count": 1134,
+    "years": [
+      "2000",
+      "2001",
+      "2002",
+      "2003",
+      "2004",
+      "2005",
+      "2006",
+      "2007",
+      "2008",
+      "2009",
+      "2010",
+      "2011",
+      "2012",
+      "2013",
+      "2014",
+      "2015",
+      "2016",
+      "2017",
+      "2018",
+      "2019",
+      "2021"
+    ],
+    "topics": [
+      {
+        "id": 269,
+        "topic": "Leadership Roles"
+      },
+      {
+        "id": 271,
+        "topic": "Making Decisions"
+      },
+      {
+        "id": 272,
+        "topic": "Disobedience and Consequences"
+      },
+      {
+        "id": 273,
+        "topic": "Nature of God"
+      },
+      {
+        "id": 274,
+        "topic": "Concern for One's Nation"
+      },
+      {
+        "id": 275,
+        "topic": "Opposition to the Gospel Message"
+      },
+      {
+        "id": 276,
+        "topic": "The Trials of Jesus"
+      },
+      {
+        "id": 277,
+        "topic": "Discipleship"
+      },
+      {
+        "id": 283,
+        "topic": "Baptism & Temptation of Jesus"
+      },
+      {
+        "id": 284,
+        "topic": "The Epistles of James"
+      },
+      {
+        "id": 288,
+        "topic": "Parental Responsibility"
+      },
+      {
+        "id": 289,
+        "topic": "The Crucifixion, Burial & Resurrection of Jesus"
+      },
+      {
+        "id": 290,
+        "topic": "Faith in God"
+      },
+      {
+        "id": 291,
+        "topic": "The Sovereignty of God"
+      },
+      {
+        "id": 292,
+        "topic": "The Epistle of 1 Peter"
+      },
+      {
+        "id": 293,
+        "topic": "Religious Reforms"
+      },
+      {
+        "id": 294,
+        "topic": "Jesus' Teaching on Forgiveness"
+      },
+      {
+        "id": 295,
+        "topic": "Fellowship in the Early Church"
+      },
+      {
+        "id": 296,
+        "topic": "A Man After God's Own Heart"
+      },
+      {
+        "id": 297,
+        "topic": "Supremacy of God"
+      },
+      {
+        "id": 298,
+        "topic": "Greed & It's Effects"
+      },
+      {
+        "id": 299,
+        "topic": "The Holy Spirit & The Mission to the Church & Gentiles"
+      },
+      {
+        "id": 615,
+        "topic": "Holiness and Divine Call"
+      },
+      {
+        "id": 616,
+        "topic": "God's Message to Nineveh"
+      },
+      {
+        "id": 617,
+        "topic": "The Covenant"
+      },
+      {
+        "id": 618,
+        "topic": "The Birth and Early Life of Jesus"
+      },
+      {
+        "id": 619,
+        "topic": "Miracles"
+      },
+      {
+        "id": 620,
+        "topic": "Sermon on the Mount"
+      },
+      {
+        "id": 621,
+        "topic": "Parables"
+      },
+      {
+        "id": 626,
+        "topic": "Justification by Faith"
+      },
+      {
+        "id": 628,
+        "topic": "New Life in Christ"
+      },
+      {
+        "id": 629,
+        "topic": "Humility"
+      },
+      {
+        "id": 630,
+        "topic": "Forgiveness"
+      },
+      {
+        "id": 631,
+        "topic": "Spiritual Gifts"
+      },
+      {
+        "id": 632,
+        "topic": "Christian Giving"
+      },
+      {
+        "id": 633,
+        "topic": "Civic Responsibility"
+      },
+      {
+        "id": 635,
+        "topic": "The Second Coming of Christ"
+      }
+    ]
+  },
+  {
+    "cat_id": 14,
+    "title": "Agricultural Science",
+    "file": "agric.json",
+    "question_count": 176,
+    "years": [
+      "2013",
+      "2015",
+      "2019"
+    ],
+    "topics": [
+      {
+        "id": 220,
+        "topic": "Diseases Of Crops"
+      },
+      {
+        "id": 222,
+        "topic": "Crop Improvement"
+      },
+      {
+        "id": 223,
+        "topic": "Agricultural Economics & Extension"
+      },
+      {
+        "id": 224,
+        "topic": "Soil formation & Profile Development"
+      },
+      {
+        "id": 229,
+        "topic": "Animal Reproduction"
+      },
+      {
+        "id": 230,
+        "topic": "Anatomy & Physiology Of Farm Animals"
+      },
+      {
+        "id": 231,
+        "topic": "Animal Health Management"
+      },
+      {
+        "id": 232,
+        "topic": "Livestock Management"
+      },
+      {
+        "id": 240,
+        "topic": "Farm Machinery & Implements"
+      },
+      {
+        "id": 252,
+        "topic": "Crop Production"
+      }
+    ]
+  },
+  {
+    "cat_id": 13,
+    "title": "Islamic Religious Studies",
+    "file": "irs.json",
+    "question_count": 331,
+    "years": [
+      "2001",
+      "2002",
+      "2003",
+      "2008",
+      "2010",
+      "2011",
+      "2018"
+    ],
+    "topics": []
+  }
+]
